@@ -1,2 +1,2 @@
 # DeepLearningAI
-courses from learn.deeplearning.ai
+courses from learn.deeplearning.ai and another place
